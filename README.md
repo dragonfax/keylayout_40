@@ -19,3 +19,9 @@ Built using Ukelele.
 * **Tilde** is moved over to the quote key.
 
 ![Layer 1](40_layer_1.png)
+
+### Caveats
+
+On the Mac, you can't use keylayouts to change Function keys or other special keys. Also, moving the delete key seems extremely buggy. 
+
+So I'm not using this 100% yet, until I can work out delete, at the very least.
